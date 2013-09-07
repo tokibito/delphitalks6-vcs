@@ -123,13 +123,16 @@ VCSの種類
 * TortoiseHg
 * SourceTree
 
-RadStudio統合について
-=====================
+RAD Studio統合について
+======================
 
 * Subversionが標準で使える
 
   * サードパーティでMercurialのもあるけどXE4では動かず...
   * 最新のSubversionで作ったリポジトリだとエラーで読めない
+
+    * Subversionクライアントをバージョンアップする必要がある(最ビルドがいるかも)
+    * RAD Studio Version Insight(http://sourceforge.net/projects/radstudioverins/)
 
 TortoiseSVNを使うのが無難。
 
